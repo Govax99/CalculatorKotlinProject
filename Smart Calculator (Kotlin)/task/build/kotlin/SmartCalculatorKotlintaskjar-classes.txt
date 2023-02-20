@@ -1,0 +1,1 @@
+C:\Users\Davide\IdeaProjects\Smart Calculator (Kotlin)\Smart Calculator (Kotlin)\task\build\classes\kotlin\main\calculator\Calculator.class;C:\Users\Davide\IdeaProjects\Smart Calculator (Kotlin)\Smart Calculator (Kotlin)\task\build\classes\kotlin\main\calculator\MainKt.class
